@@ -1,0 +1,20 @@
+# Binary / executable
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Output build
+/bin/
+/build/
+
+# Log file
+*.log
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
